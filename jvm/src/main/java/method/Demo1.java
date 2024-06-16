@@ -6,5 +6,11 @@ public class Demo1 {
         i = i++;
 
         System.out.println(i);
+
+        int a = i;
+
+        System.out.println(a);
+
+
     }
 }
